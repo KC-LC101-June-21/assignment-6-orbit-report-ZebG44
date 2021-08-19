@@ -28,3 +28,7 @@ export class OrbitListComponent implements OnInit {
 	}
 
 }
+function isSpaceDebris() {
+	throw new Error('Function not implemented.');
+}
+
